@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-12">
           <div>
             <div className="flex items-center space-x-2 mb-6">
-              <Leaf className="h-8 w-8 text-primary-400" />
+              <img src="/assets/Logo.png" alt="Masterpropre Logo" className="h-8 w-auto" />
               <span className="text-2xl font-semibold text-white">Masterpropre</span>
             </div>
             <p className="text-gray-300 mb-6">
