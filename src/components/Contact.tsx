@@ -20,19 +20,19 @@ const Contact = () => {
                     <div className="bg-green-500/50 p-2 sm:p-3 rounded-full">
                       <Phone className="text-white h-4 w-4 sm:h-6 sm:w-6" />
                     </div>
-                    <span className="text-white text-sm sm:text-base">+33 6 62 19 98 67</span>
+                    <span className="text-white text-sm sm:text-base">+33 6 59 12 50 31</span>
                   </div>
                   <div className="flex items-center space-x-3 sm:space-x-4">
                     <div className="bg-green-500/50 p-2 sm:p-3 rounded-full">
                       <Mail className="text-white h-4 w-4 sm:h-6 sm:w-6" />
                     </div>
-                    <span className="text-white text-sm sm:text-base">contact@masterpropre.com</span>
+                    <span className="text-white text-sm sm:text-base">masterpropre@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3 sm:space-x-4">
                     <div className="bg-green-500/50 p-2 sm:p-3 rounded-full">
                       <MapPin className="text-white h-4 w-4 sm:h-6 sm:w-6" />
                     </div>
-                    <span className="text-white text-sm sm:text-base">123 Rue Écologique, Meudon, 92190</span>
+                    <span className="text-white text-sm sm:text-base">Meudon, 92190</span>
                   </div>
                 </div>
                 <div className="mt-6 sm:mt-8">
@@ -44,10 +44,10 @@ const Contact = () => {
                 <div className="mt-8 sm:mt-12">
                   <h3 className="text-white font-semibold mb-3 sm:mb-4 text-sm sm:text-base">Suivez-nous</h3>
                   <div className="flex space-x-3 sm:space-x-4">
-                    <a href="#" className="bg-green-500/50 p-2 sm:p-3 rounded-full hover:bg-green-400 transition-colors">
+                    <a href="https://www.instagram.com/masterpropre92/" className="bg-green-500/50 p-2 sm:p-3 rounded-full hover:bg-green-400 transition-colors">
                       <Instagram className="h-4 w-4 sm:h-5 sm:w-5 text-white" />
                     </a>
-                    <a href="#" className="bg-green-500/50 p-2 sm:p-3 rounded-full hover:bg-green-400 transition-colors">
+                    <a href="https://www.facebook.com/profile.php?id=100090419220625" className="bg-green-500/50 p-2 sm:p-3 rounded-full hover:bg-green-400 transition-colors">
                       <Facebook className="h-4 w-4 sm:h-5 sm:w-5 text-white" />
                     </a>
                   </div>
