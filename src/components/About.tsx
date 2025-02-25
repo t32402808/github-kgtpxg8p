@@ -77,8 +77,8 @@ const About = () => {
                   <p className="text-dark-600 text-sm">Des résultats exceptionnels à chaque intervention</p>
                 </div>
                 <div className="p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-primary-100">
-                  <h5 className="font-semibold text-primary-600 mb-2">Innovation</h5>
-                  <p className="text-dark-600 text-sm">Utilisation des dernières technologies</p>
+                  <h5 className="font-semibold text-primary-600 mb-2">Artisanal</h5>
+                  <p className="text-dark-600 text-sm">Un savoir-faire artisanal qui marie tradition et modernité</p>
                 </div>
                 <div className="p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-primary-100">
                   <h5 className="font-semibold text-primary-600 mb-2">Intégrité</h5>
